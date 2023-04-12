@@ -1,0 +1,5 @@
+---
+author: "Jesse Sadler"
+title: "Analyzing and Visualizing Non-Decimal Currencies: A Digital History Methodology"
+---
+
